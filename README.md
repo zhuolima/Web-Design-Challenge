@@ -34,7 +34,8 @@ A Data Page that:
 Displays a responsive table containing the data used in the visualizations
 The table must be a Bootstrap table component
 The data must come from exporting the .csv file as HTML, or converting it to HTML
-![Uploading Screen Shot 2021-10-03 at 6.19.54 PM.png…]()
+![Screen Shot 2021-10-03 at 6 19 54 PM](https://user-images.githubusercontent.com/74121692/135780762-0f9b9518-1f77-4d8a-85f3-ce385e126d7f.png)
+
 
 
 The website must, at the top of every page, have a navigation menu that:
