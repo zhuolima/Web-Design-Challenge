@@ -1,13 +1,13 @@
-## Web-Visualization-Dashboard
+# Web-Visualization-Dashboard
 
 
-Background
+## Background
 Create a Visualization Dashboard Website of Weather in 500+ World Cities Relative to the Equator at Different Latitudes Using HTML5, CSS3 and Bootstrap 4
 
-Objectives
+### Objectives
 In building this dashboard, create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
-Website Requirements
+### Website Requirements
 The website must consist of 7 pages total, including:
 
 A Landing Page containing:
